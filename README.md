@@ -1,5 +1,5 @@
 <h1 align='center'> 🌟 Hello World! 🌟 </h1>
-
+<img src="https://komarev.com/ghpvc/?username=ayqya&style=flat-square&color=blue" alt=""/>
 
 ## :bubble_tea: About Me
 I am a driven and tech-savvy pharmacist, committed to personal growth and overcoming challenges.
